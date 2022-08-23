@@ -24,7 +24,7 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/mhernandezsa/MetNumUN2022II/blob/main/mhernandezsa_Lab1.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/mhernandezsa/MetNumUN2022II/blob/main/mhernandezsa_Lab1.ipynb/lab%201\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -1183,7 +1183,7 @@
         "id": "_1aMFJeVXkzg",
         "outputId": "e25a26f0-1d62-48ee-bcec-373b13082517"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1207,7 +1207,7 @@
         "id": "kOZWBeyFYP2E",
         "outputId": "0ba2c782-f6fc-4432-b920-e8deafab8861"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1232,7 +1232,7 @@
         "id": "sbbig6V1YfLS",
         "outputId": "10884564-b2ca-4ee0-f7ea-b7046a8f869b"
       },
-      "execution_count": 6,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1265,7 +1265,7 @@
         "id": "b9-VS2_nYzir",
         "outputId": "6aec3dca-d3b6-4d06-f60b-2cf15cb80a63"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1300,7 +1300,7 @@
         "id": "diX-WD41Z9hl",
         "outputId": "a19d5550-017d-465b-91d3-0c3b0e5a86e2"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1336,7 +1336,7 @@
         "id": "RDmO584FaSE1",
         "outputId": "d8ef5dc6-d48f-4282-acba-c68957a14410"
       },
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1370,7 +1370,7 @@
         "id": "B4wZi-8Kb_QH",
         "outputId": "d6208884-4828-495b-d755-1c11936883b2"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1406,7 +1406,7 @@
         "id": "IQFd6WORchu0",
         "outputId": "c6018300-46c7-4fc9-a41f-07069cccac87"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1442,7 +1442,7 @@
         "id": "Cg5Cvo96dSG2",
         "outputId": "a8b93feb-3708-4bc6-931f-9d073a0cb43e"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1476,7 +1476,7 @@
         "id": "oMXDO4wEeceX",
         "outputId": "564521fa-6d75-487a-eff4-2303fbe1fc74"
       },
-      "execution_count": 19,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1510,7 +1510,7 @@
         "id": "DMBGhMPye6hD",
         "outputId": "298c1934-52f4-4358-d175-5d539bdee718"
       },
-      "execution_count": 20,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1535,7 +1535,7 @@
         "id": "hgsW1njNgGtB",
         "outputId": "4a3f2fd7-b5b8-4e76-f691-9ebc8cce9e4e"
       },
-      "execution_count": 21,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1568,7 +1568,7 @@
         "id": "rI3oPHjAgMaO",
         "outputId": "0f9cf6cc-4edc-44b4-c9c3-f02c50f10b34"
       },
-      "execution_count": 22,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -1595,7 +1595,7 @@
         "id": "86XOgHvChEQd",
         "outputId": "fe2dd3a5-dd31-4e47-c9c0-a11c04c02261"
       },
-      "execution_count": 27,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1628,7 +1628,7 @@
         "id": "Or5pYHBzgqOS",
         "outputId": "f0b03abf-a00a-470f-c9b2-c00b98fe7ba1"
       },
-      "execution_count": 23,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1652,7 +1652,7 @@
         "id": "fiYComXRg8nd",
         "outputId": "529699cb-9660-450d-9938-0993866af29c"
       },
-      "execution_count": 28,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1685,7 +1685,7 @@
         "id": "EMzfl30ohqx5",
         "outputId": "f23635b2-790a-43d8-e76e-bf7bfb8063c0"
       },
-      "execution_count": 29,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1710,7 +1710,7 @@
         "id": "LONwHUcmh3iP",
         "outputId": "3cb53291-006b-4a7f-9fb1-edba6498a46e"
       },
-      "execution_count": 30,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1746,7 +1746,7 @@
         "id": "PiXG0v5Ai5ZG",
         "outputId": "1a4eb471-3d4c-493f-90fc-4013b7856517"
       },
-      "execution_count": 32,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1769,7 +1769,7 @@
         "id": "6nGOLhdcjdqU",
         "outputId": "7ca03b0b-6188-461c-94b2-207250dbcdf5"
       },
-      "execution_count": 35,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1801,7 +1801,7 @@
         "id": "PWYpWphjj9_Z",
         "outputId": "68125a72-a3c9-42a4-e799-c24ed33fea8e"
       },
-      "execution_count": 36,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1824,7 +1824,7 @@
         "id": "D7EDwZO3khSi",
         "outputId": "c260848f-3ad0-4232-d541-89ea2342fdd6"
       },
-      "execution_count": 41,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1847,7 +1847,7 @@
         "id": "K03Ir3rRk0b6",
         "outputId": "a6eb57d8-32c5-4208-e3ab-87e51de2616d"
       },
-      "execution_count": 42,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1882,7 +1882,7 @@
         "id": "p_awMAnXlfgw",
         "outputId": "583c37e8-6663-48f9-dfa8-f9b9cbda3736"
       },
-      "execution_count": 48,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1911,7 +1911,7 @@
         "id": "q4mAjQp4rCcY",
         "outputId": "5d7c6e4f-27fc-42eb-9d8b-71b370a68340"
       },
-      "execution_count": 49,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1943,7 +1943,7 @@
         "id": "jf7LiErBxMWa",
         "outputId": "2f0a21e9-7d93-4bb1-d21e-c931ed28f3b6"
       },
-      "execution_count": 51,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -1967,7 +1967,7 @@
         "id": "tmWPT2agxVnx",
         "outputId": "d956fd20-aef1-4adb-87bd-1b4292084f89"
       },
-      "execution_count": 59,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
